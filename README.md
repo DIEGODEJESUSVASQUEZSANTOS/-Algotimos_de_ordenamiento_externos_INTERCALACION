@@ -1,5 +1,6 @@
 # -Algotimos_de_ordenamiento_externos_INTERCALACION
 
+
 # -Este programa realiza un ejemplo básico de métodos de ordenamiento en Estructura de Datos por el método de Intercalación creado en el lenguaje C++
 
 Al incio del programa se declaran las librerias necesarias para el funcionamiento del programa. La primera libreria es estandar de C++ necesaria para el uso de la función principal. La segunda libreria ocupa el funcionamiento del uso de variables tipo vector donde podemos almacenar los datos tipo int de una manera desordenada y aleatoria. La tercera libreria nos permite hacer el ordenamiento de datos tipo int dentro de un vector. La tercera liberia nos permite hacer el uso de iteradores para llevar el contenteo de datos al momento de ordenar.
