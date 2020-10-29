@@ -14,6 +14,6 @@ Apartir de la linea 20 se hace el ordenamiento de los datos del vector con ayuda
 
 ![2](https://user-images.githubusercontent.com/72058362/97512467-30657b80-194f-11eb-831a-a5ef631ea252.png)
 
-----------------------------------------------Pruebas de consola-------------------------------------------------------
+----------------------------------------------Pruebas De Consola-------------------------------------------------------
 
 ![3](https://user-images.githubusercontent.com/72058362/97512469-30fe1200-194f-11eb-9237-adffa495e383.png)
